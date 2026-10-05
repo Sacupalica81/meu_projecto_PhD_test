@@ -1,9 +1,9 @@
-# Projeto de Doutoramento 
+#
 Universidade da Beira Interior 
 Departamento de Informática
 Candidato: Euclides do Nascimento Sacupalica
 Orientador: Nuno Gonçalo Coelho Costa Pombo
-
+# Projeto de Doutoramento 
 Frugal Multi-Agent Architectures for Academic Information Management in Resource-Constrained Higher Education
 # 
 Área: Engenharia de Software · Sistemas Multi-Agente · Computação Frugal · Sistemas de Informação de Gestão
