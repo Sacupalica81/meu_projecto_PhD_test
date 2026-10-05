@@ -1,5 +1,5 @@
 #
-Universidade da Beira Interior\ 
+Universidade da Beira Interior\  
 Departamento de Informática
 #
 Candidato: Euclides do Nascimento Sacupalica\
