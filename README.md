@@ -10,7 +10,7 @@ Frugal Multi-Agent Architectures for Academic Information Management in Resource
 
 
 ## 🎯 Objetivo
-Breve descrição do repositório e a que artigo científico está associado.
+O objetivo geral desta tese consiste em desenhar, formalizar e avaliar um novo paradigma de engenharia de software denominado Arquiteturas Multi-Agente Frugais, capacitando sistemas distribuídos inteligentes a operar de forma robusta, eficaz e com alta qualidade de automação sob restrições severas de conectividade, computação e orçamento, validando a sua aplicabilidade no domínio dos Sistemas de Informação de Gestão Académica em contextos de recursos limitados.
 
 ## 🚀 Instalação
 Instruções passo a passo de como configurar o ambiente.
