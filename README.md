@@ -2,7 +2,7 @@
 Universidade da Beira Interior\  
 Departamento de Informática
 #
-Candidato: Euclides do Nascimento Sacupalica\ORCID https://orcid.org/0009-0000-6104-358X \ 
+Candidato: Euclides do Nascimento Sacupalica\ORCID https://orcid.org/0009-0000-6104-358X\  
 Orientador: Nuno Gonçalo Coelho Costa Pombo
 # Projeto de Doutoramento 
 ## Frugal Multi-Agent Architectures for Academic Information Management in Resource-Constrained Higher Education
