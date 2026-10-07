@@ -1,6 +1,6 @@
 #
 Universidade da Beira Interior\  
-Departamento de Informática
+Departamento de Informática https://orcid.org/0009-0000-6104-358X
 #
 Candidato: Euclides do Nascimento Sacupalica\ORCID https://orcid.org/0009-0000-6104-358X\  
 Orientador: Nuno Gonçalo Coelho Costa Pombo
